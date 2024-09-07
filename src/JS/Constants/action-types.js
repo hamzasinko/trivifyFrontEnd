@@ -1,0 +1,6 @@
+export const ADD_USER = 'ADD_USER'
+export const LOGIN = 'LOGIN'
+export const LOGOUT = 'LOGOUT'
+export const CREATE_ROOM = 'CREATE_ROOM'
+export const ACTIVATE_QUIZ = 'ACTIVATE_QUIZ'
+export const ADD_QUIZ = 'ADD_QUIZ'
